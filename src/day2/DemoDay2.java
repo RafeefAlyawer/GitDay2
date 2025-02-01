@@ -24,4 +24,5 @@ public class DemoDay2 {
 		System.out.println(a/b);
 	}
 // push a code
+	// pull a code
 }
